@@ -2,7 +2,7 @@
 #Como está escrita ahora mismo, el número que opera siempre es el número "3"
 
 def mul_dos_suma_cinco():
-    print(n * 2 + 5)
+    print(3 * 2 + 5)
 
 mul_dos_suma_cinco()
 
